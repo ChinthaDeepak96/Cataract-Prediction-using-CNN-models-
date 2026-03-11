@@ -1,0 +1,4 @@
+Dataset: ODIR-5K Ocular Disease Recognition Dataset
+
+Download from:
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
